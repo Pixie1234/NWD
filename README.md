@@ -12,6 +12,8 @@ If a function is not a method of a JavaScript object, it is a function of the gl
 <h2>Aktiviranje na sass </h2>
 https://www.youtube.com/watch?v=gI0_bAD4FEk -> 
 https://www.youtube.com/watch?v=4ZcFiNIXwkk -> so ruby , proraboti<br>
+<h3>Dokumentacija za problemot </h3>
+Imav problem so File Watchers, treba da ima SCSS enabled, vo Program treba da ja ima lokacijata, vo mojot slucaj na ruby C:\Ruby26-x64\bin\sass, simnav Ruby bidejki nejkese so npm install node-sass nikako so npm nejkese <br>
 <h3> Commands </h3>
 npm run (imeto na fajli)<br>
 ctrl + s -> direkno bez run dava go kodo komplajliran od scss u css<br>
