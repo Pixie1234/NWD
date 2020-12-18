@@ -10,7 +10,8 @@ In JavaScript all functions are object methods. <br>
 If a function is not a method of a JavaScript object, it is a function of the global object (see previous chapter).
 
 <h2>Aktiviranje na sass </h2>
-https://www.youtube.com/watch?v=gI0_bAD4FEk -> 
+https://www.youtube.com/watch?v=Zz6eOVaaelI -> Learn Sass In 20 Minutes<br>
+https://www.youtube.com/watch?v=gI0_bAD4FEk -> <br>
 https://www.youtube.com/watch?v=4ZcFiNIXwkk -> so ruby , proraboti<br>
 <h3>Dokumentacija za problemot </h3>
 Imav problem so File Watchers, treba da ima SCSS enabled, vo Program treba da ja ima lokacijata, vo mojot slucaj na ruby C:\Ruby26-x64\bin\sass, simnav Ruby bidejki nejkese so npm install node-sass nikako so npm nejkese <br>
