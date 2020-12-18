@@ -10,4 +10,5 @@ In JavaScript all functions are object methods. <br>
 If a function is not a method of a JavaScript object, it is a function of the global object (see previous chapter).
 
 <h2>Aktiviranje na sass </h2>
-https://www.youtube.com/watch?v=gI0_bAD4FEk -> edinstveno so rabote thank god<br>
+https://www.youtube.com/watch?v=gI0_bAD4FEk -> <br>
+https://www.youtube.com/watch?v=4ZcFiNIXwkk -> so ruby , proraboti<br>
